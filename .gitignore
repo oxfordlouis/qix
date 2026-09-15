@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.png
+_shot*
+_syntax_check.js
+_iframe_test.html
