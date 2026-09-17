@@ -1,5 +1,9 @@
 # QIX
 
+Moved into oxfordlouis/deepbreath-space under /qix/.
+Live: https://deepbreath.space/qix/
+This repo is archived. Do not deploy from here.
+
 A self-contained HTML5 reconstruction of the 1981 Taito America arcade game **Qix** (pronounced “kicks”), built for [deepbreath.space](https://deepbreath.space).
 
 Fan reconstruction — not affiliated with Taito. Original geometry, rules, and scoring; no ROM data, cabinet art, or sampled sound.
